@@ -21,7 +21,7 @@
 <!--[Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/Ecev-rCMlzdLsw1KErT0g4kB44WBMrVYpt4o6srpxqi5lg?e=1SQ0cG)  -->
 - [Exercise 2](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EVd_vuQAGOlHhNGu7s9v5doB8QWXU1rLxQvs2jxf8M1ctg?e=Xu0s90)
 ### Solutions
-- [Solution 1](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ERbNRtMgRP1DmoBlBVhegooB1AtBu5GYP7Us3CMbBMgewA?e=37fjir) **(Exercise 4a needs to include b∈R)**
+- [Solution 1](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ERbNRtMgRP1DmoBlBVhegooB1AtBu5GYP7Us3CMbBMgewA?e=37fjir) **(Updated: The answer of Exercise 4a needs to include b∈R)**
 
 ### Recordings on Monday (For add-drop period only)
 
