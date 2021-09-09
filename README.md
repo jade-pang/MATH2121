@@ -21,7 +21,7 @@
 <!--[Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/Ecev-rCMlzdLsw1KErT0g4kB44WBMrVYpt4o6srpxqi5lg?e=1SQ0cG)  -->
 
 ### Solutions
-- [Solution1](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ERbNRtMgRP1DmoBlBVhegooB1AtBu5GYP7Us3CMbBMgewA?e=37fjir"_blank">Solution 1)
+- [Solution1](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ERbNRtMgRP1DmoBlBVhegooB1AtBu5GYP7Us3CMbBMgewA?e=37fjir)
 
 ### Recordings (For add-drop period only)
 
