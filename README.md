@@ -23,6 +23,7 @@
 
 ### Solutions
 - [Solution 1](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ERbNRtMgRP1DmoBlBVhegooB1AtBu5GYP7Us3CMbBMgewA?e=37fjir) **(Updated: The answer of Exercise 4a needs to include b∈R)**
+- [Solution 2](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EZaG7kMcJ71BvcyVCBr3kloBarsCpwQj7MHh3KPO2tgbqQ?e=WRpbBB)
 
 ### Recordings on Monday (For add-drop period only)
 
