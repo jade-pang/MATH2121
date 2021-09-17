@@ -8,9 +8,10 @@
 
 <table style="width:100%">
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Tutorial</th>
+    <th>Notes</th>
+    <th>Exercise</th>
+    <th>Solutions</th>
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>
