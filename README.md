@@ -19,7 +19,7 @@
     <td>3</td>
   </tr>
   <tr>
-    <td>(https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EZiM5gyO2oJEs3jrJ7mtvqoBAOMY2Z5pUip7BCXoAqJ2pA?e=LOyZP6)</td>
+    <td>[Notes](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EZiM5gyO2oJEs3jrJ7mtvqoBAOMY2Z5pUip7BCXoAqJ2pA?e=LOyZP6)</td>
     <td>Francisco Chang</td>
     <td>Mexico</td>
   </tr>
