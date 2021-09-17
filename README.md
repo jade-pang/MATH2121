@@ -19,6 +19,7 @@
  _(These are just the exercises from the notes above.)_
 - [Exercise 1](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/Ebpd_ZeCd_RJuAuC9qhDZzABZ5WsCuVoMGwmN7ZvPSiPDw?e=xtaOfO)
 - [Exercise 2](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EVd_vuQAGOlHhNGu7s9v5doB8QWXU1rLxQvs2jxf8M1ctg?e=Xu0s90)
+- [Exercise 3](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EViRQP3j-LFFrskgyVSCDl0BhN_ztwHR7L5RY419OAYRvQ?e=mf40gE)
 
 
 ### Solutions
