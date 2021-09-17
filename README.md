@@ -5,25 +5,43 @@
 - Sessions: **T2A** and **T2B**
 - TA: PANG Wai Ho (Jade)
 - Email: whpangaa@connect.ust.hk
-
-<table style="width:50%">
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
   <tr>
-    <th>Tutorial</th>
-    <th>Notes</th>
-    <th>Exercise</th>
-    <th>Solutions</th>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td></td>
-    <td>[Notes 1](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EZiM5gyO2oJEs3jrJ7mtvqoBAOMY2Z5pUip7BCXoAqJ2pA?e=LOyZP6)</td>
-    <td>[Exercise 1](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/Ebpd_ZeCd_RJuAuC9qhDZzABZ5WsCuVoMGwmN7ZvPSiPDw?e=xtaOfO)</td>
-    <td>[Solution 1](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ERbNRtMgRP1DmoBlBVhegooB1AtBu5GYP7Us3CMbBMgewA?e=37fjir)</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
-<!--    <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr> -->
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
 </table>
 
 
