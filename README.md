@@ -6,7 +6,7 @@
 - TA: PANG Wai Ho (Jade)
 - Email: whpangaa@connect.ust.hk
 
-<table style="width:100%">
+<table style="width:50%">
   <tr>
     <th>Tutorial</th>
     <th>Notes</th>
