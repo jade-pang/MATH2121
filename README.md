@@ -19,11 +19,11 @@
     <td>[Exercise 1](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/Ebpd_ZeCd_RJuAuC9qhDZzABZ5WsCuVoMGwmN7ZvPSiPDw?e=xtaOfO)</td>
     <td>[Solution 1](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ERbNRtMgRP1DmoBlBVhegooB1AtBu5GYP7Us3CMbBMgewA?e=37fjir)</td>
   </tr>
-   <tr>
+<!--    <tr>
     <td>Centro comercial Moctezuma</td>
     <td>Francisco Chang</td>
     <td>Mexico</td>
-  </tr>
+  </tr> -->
 </table>
 
 
