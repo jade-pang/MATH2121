@@ -28,7 +28,6 @@
 ### Recordings on Monday (For add-drop period only)
 
 - [Tutorial 1](https://hkust.zoom.us/rec/share/BqND1gW3w8kO2-Efft3MOgUcIxvHNeBS0EboK22mKZkG1AS-yRpbse6A_lkRQmCm.2hWU07XDoH71T-Ct)
-<!-- You can use the [editor on GitHub](https://github.com/jade-pang/MATH2121/edit/main/README.md) to maintain and preview the content for your website in Markdown files. Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 - [Tutorial 2](https://hkust.zoom.us/rec/play/FhRz60HYl-t3T3CeaxgqnNZ0UkUppeW5mxrCLjHmXzusTi-rM2BLD67lBZW3jA0SBpa_crSND0NR4wjN.aTJq6WYAvAO9kdB0?autoplay=true&continueMode=true&startTime=1631525652000)
 
 <!-- ### Markdown
