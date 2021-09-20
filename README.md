@@ -16,15 +16,15 @@
 
 ### Exercises
  _(These are just the exercises from the notes above.)_
-- [Exercise 1](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/Ebpd_ZeCd_RJuAuC9qhDZzABZ5WsCuVoMGwmN7ZvPSiPDw?e=xtaOfO)
-- [Exercise 2](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EVd_vuQAGOlHhNGu7s9v5doB8QWXU1rLxQvs2jxf8M1ctg?e=Xu0s90)
+- [Exercise 1](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/Ebpd_ZeCd_RJuAuC9qhDZzABZ5WsCuVoMGwmN7ZvPSiPDw?e=xtaOfO)([Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ERbNRtMgRP1DmoBlBVhegooB1AtBu5GYP7Us3CMbBMgewA?e=37fjir) **(Updated: The answer of Exercise 4a needs to include b∈R)**)
+- [Exercise 2](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EVd_vuQAGOlHhNGu7s9v5doB8QWXU1rLxQvs2jxf8M1ctg?e=Xu0s90)([Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EZaG7kMcJ71BvcyVCBr3kloBarsCpwQj7MHh3KPO2tgbqQ?e=WRpbBB)
 - [Exercise 3](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EViRQP3j-LFFrskgyVSCDl0BhN_ztwHR7L5RY419OAYRvQ?e=mf40gE)
 
 
-### Solutions
-- [Solution 1](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ERbNRtMgRP1DmoBlBVhegooB1AtBu5GYP7Us3CMbBMgewA?e=37fjir) **(Updated: The answer of Exercise 4a needs to include b∈R)**
-- [Solution 2](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EZaG7kMcJ71BvcyVCBr3kloBarsCpwQj7MHh3KPO2tgbqQ?e=WRpbBB)
+<!-- ### Solutions
 
+- 
+ -->
 ### Recordings on Monday (For add-drop period only)
 
 - [Tutorial 1](https://hkust.zoom.us/rec/share/BqND1gW3w8kO2-Efft3MOgUcIxvHNeBS0EboK22mKZkG1AS-yRpbse6A_lkRQmCm.2hWU07XDoH71T-Ct)
