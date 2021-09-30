@@ -20,7 +20,7 @@
 - [Exercise 1](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/Ebpd_ZeCd_RJuAuC9qhDZzABZ5WsCuVoMGwmN7ZvPSiPDw?e=xtaOfO) ([Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ERbNRtMgRP1DmoBlBVhegooB1AtBu5GYP7Us3CMbBMgewA?e=37fjir) **Updated: The answer of Exercise 4a needs to include b∈R**)
 - [Exercise 2](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EVd_vuQAGOlHhNGu7s9v5doB8QWXU1rLxQvs2jxf8M1ctg?e=Xu0s90) ([Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EZaG7kMcJ71BvcyVCBr3kloBarsCpwQj7MHh3KPO2tgbqQ?e=WRpbBB))
 - [Exercise 3](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EViRQP3j-LFFrskgyVSCDl0BhN_ztwHR7L5RY419OAYRvQ?e=mf40gE) ([Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EfMVUN13OJJOmlFbcRVhBl4Bk-nly2Ya8mOdg7lmTbUeUg?e=B6tJTw))
-- [Exercise 4](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EXv3hnUSfJtKk3RI0kUWe_gBVCwOO5V0jxd65QsBNY9yBQ?e=FQazaj)
+- [Exercise 4](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EXv3hnUSfJtKk3RI0kUWe_gBVCwOO5V0jxd65QsBNY9yBQ?e=FQazaj) ([Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EXi9MbKZceBFgQ4dcczCb74BtPvHNVNVVeGZp_LZPJKUuA?e=2yT6c7))
 
 
 <!-- ### Solutions
