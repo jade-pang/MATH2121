@@ -24,10 +24,6 @@
 - [Exercise 4](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EXv3hnUSfJtKk3RI0kUWe_gBVCwOO5V0jxd65QsBNY9yBQ?e=FQazaj) ([Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EXi9MbKZceBFgQ4dcczCb74BtPvHNVNVVeGZp_LZPJKUuA?e=dc1Pns))
 - [Exercise 5](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EU12qJ0U9AVOhFwvAi4qeOkB4cfC_e1WpTU_TQmy3hfaPw?e=hewQps)
 
-<!-- ### Solutions
-
-- 
- -->
 ### Recordings on Monday (For add-drop period only)
 
 - [Tutorial 1](https://hkust.zoom.us/rec/share/BqND1gW3w8kO2-Efft3MOgUcIxvHNeBS0EboK22mKZkG1AS-yRpbse6A_lkRQmCm.2hWU07XDoH71T-Ct)
