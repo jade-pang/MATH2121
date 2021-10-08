@@ -34,8 +34,8 @@
 - [Linear Algebra Toolkit by PERL.](http://www.math.odu.edu/~bogacki/cgi-bin/lat.cgi) (The Best Website to do calculations in Linear Algebra.)
 - [Wolfram Alpha](https://www.wolframalpha.com) (The Mobile Version is very user friendly and useful in many math courses, not just Linear Algebra.)
 - [Symbolab](https://www.symbolab.com) (The Desktop Version is very nice for you to modify your inputs after last computation.)
-<!-- ### Markdown
 
+<!-- ### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
