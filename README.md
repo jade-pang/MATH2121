@@ -30,7 +30,7 @@
 
 - [Tutorial 1](https://hkust.zoom.us/rec/share/BqND1gW3w8kO2-Efft3MOgUcIxvHNeBS0EboK22mKZkG1AS-yRpbse6A_lkRQmCm.2hWU07XDoH71T-Ct)
 - [Tutorial 2](https://hkust.zoom.us/rec/play/FhRz60HYl-t3T3CeaxgqnNZ0UkUppeW5mxrCLjHmXzusTi-rM2BLD67lBZW3jA0SBpa_crSND0NR4wjN.aTJq6WYAvAO9kdB0?autoplay=true&continueMode=true&startTime=1631525652000)
-- [tutorial 6](https://hkust.zoom.us/rec/share/28G1g2Wh6op88fNNCO0SdDTAB7_XY98x3X_sVsWBpqhru8zsrRlTEueefvEr2_17.aichyyCmmPKvDfqL)
+- [Tutorial 6](https://hkust.zoom.us/rec/share/28G1g2Wh6op88fNNCO0SdDTAB7_XY98x3X_sVsWBpqhru8zsrRlTEueefvEr2_17.aichyyCmmPKvDfqL)
 
 ### Useful Websites
 
