@@ -1,6 +1,6 @@
 ## MATH2121 Tutorial Page
 <img src= "Elmo.png" width="360" height="180">
-<img src=https://scontent-hkg4-2.xx.fbcdn.net/v/t1.6435-9/247036319_866615780703803_2345663964787519475_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=825194&_nc_ohc=EvGmDGxc3LsAX-tTJF8&_nc_ht=scontent-hkg4-2.xx&oh=e52f1958ad113b4fc3465030eed2bd24&oe=61957BB0 width="360" height="180>
+<img src= "https://scontent-hkg4-2.xx.fbcdn.net/v/t1.6435-9/247036319_866615780703803_2345663964787519475_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=825194&_nc_ohc=EvGmDGxc3LsAX-tTJF8&_nc_ht=scontent-hkg4-2.xx&oh=e52f1958ad113b4fc3465030eed2bd24&oe=61957BB0" width="360" height="180>
 
 ### Information
 - Sessions: **T2A** and **T2B**
