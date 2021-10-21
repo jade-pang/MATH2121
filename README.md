@@ -41,6 +41,8 @@
 - [Wolfram Alpha](https://www.wolframalpha.com) (The Mobile Version is very user friendly and useful in many math courses, not just Linear Algebra.)
 - [Symbolab](https://www.symbolab.com) (The Desktop Version is very nice to modify your inputs after last computation.)
 
+### Midterm Review
+- [Revision Exercise](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EduUJ7vTVJBGm2zlzm3kGbkBezmm_eEV30ks807xRE_OZw?e=lLMkyQ)
 <!-- ### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
