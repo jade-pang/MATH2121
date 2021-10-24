@@ -18,7 +18,7 @@
 - [Tutorial 5](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/Efv8qJWbvsNAhMYiI7XzSxEBsiM4ulAZpyyMPt-QKVTkAA?e=MTcdQT)       ([Supplementary Notes](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EW0iil_GDTBMmpd-u8iBLF8BGHekQntN8-pKFy6JZWDOlw?e=Udewyd))
 - [Tutorial 6](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EXXIFJLiQx5Mr2BnVrAZW-QBMFC21WCB2jkVxjZsRB7A7Q?e=camQOa) **(Revised)**
 - [Tutorial 7](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EXEHDEfWV1FGtk_uI1Ui9ogBbpDU8Cv3Logwl2y2Gmt6vg?e=InM6fW)
-- [tutorial 8](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ET1iCv4oUXpNkpCK4sgNitgBqJtbCdyg556_e74IZL9nJA?e=F4lCTO)
+- [Tutorial 8](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ET1iCv4oUXpNkpCK4sgNitgBqJtbCdyg556_e74IZL9nJA?e=F4lCTO)
 
 ### Exercises
  _(These are just the exercises from the notes above.)_
@@ -29,6 +29,7 @@
 - [Exercise 5](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EU12qJ0U9AVOhFwvAi4qeOkB4cfC_e1WpTU_TQmy3hfaPw?e=hewQps) ([Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ETmz_93nfA9CnXqshNnNlR4BZoODT592rmdDFxfP2d5bRg?e=pOw3sO))
 - [Exercise 6](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EeYervohQfVKk8cVSojBbx4BKHpAxtHTFOHdangzRwL-BA?e=fzBRz6) ([Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EabzBIeNAGtBsAHXi3TH9AEBTy2MiaDwCvxTKwoe4u3GFw?e=APEMLB))
 - [Exercise 7](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EcEzm_B5gExNrfal2BenoR0BuDfDTfPfG0Ftx9c9Jk6CFQ?e=cZdQd0) ([Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/Ede9L9tp6d9BqIkfwKVCvy4BoHrLYpyRz-o08ONSm90vjg?e=v5m7gd))
+- [Exercise 8](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EVySVbdZJO1MmZjqCcJQj_gBV0Cqfe_M6xvX_OFJV2igFw?e=f7IZBc)
 
 ### Recordings on Monday (For add-drop period only)
 
