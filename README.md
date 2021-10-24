@@ -18,6 +18,7 @@
 - [Tutorial 5](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/Efv8qJWbvsNAhMYiI7XzSxEBsiM4ulAZpyyMPt-QKVTkAA?e=MTcdQT)       ([Supplementary Notes](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EW0iil_GDTBMmpd-u8iBLF8BGHekQntN8-pKFy6JZWDOlw?e=Udewyd))
 - [Tutorial 6](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EXXIFJLiQx5Mr2BnVrAZW-QBMFC21WCB2jkVxjZsRB7A7Q?e=camQOa) **(Revised)**
 - [Tutorial 7](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EXEHDEfWV1FGtk_uI1Ui9ogBbpDU8Cv3Logwl2y2Gmt6vg?e=InM6fW)
+- [tutorial 8](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ET1iCv4oUXpNkpCK4sgNitgBqJtbCdyg556_e74IZL9nJA?e=F4lCTO)
 
 ### Exercises
  _(These are just the exercises from the notes above.)_
