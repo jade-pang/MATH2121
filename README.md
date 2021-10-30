@@ -36,7 +36,7 @@
 - [Tutorial 1](https://hkust.zoom.us/rec/share/BqND1gW3w8kO2-Efft3MOgUcIxvHNeBS0EboK22mKZkG1AS-yRpbse6A_lkRQmCm.2hWU07XDoH71T-Ct)
 - [Tutorial 2](https://hkust.zoom.us/rec/play/FhRz60HYl-t3T3CeaxgqnNZ0UkUppeW5mxrCLjHmXzusTi-rM2BLD67lBZW3jA0SBpa_crSND0NR4wjN.aTJq6WYAvAO9kdB0?autoplay=true&continueMode=true&startTime=1631525652000)
 - [Tutorial 6](https://hkust.zoom.us/rec/share/28G1g2Wh6op88fNNCO0SdDTAB7_XY98x3X_sVsWBpqhru8zsrRlTEueefvEr2_17.aichyyCmmPKvDfqL)
-- [Tutorial 8](https://hkust.zoom.us/rec/share/fmYBgznd4zs_XKRz_MU4n2ejFfVGLYrQz8y9D45goUFjTDitIrD4ulxZDAppUD6O.S9hmS5TZiTtV1rYJ?startTime=1635498787000)
+- [Tutorial 8](https://hkust.zoom.us/rec/share/fmYBgznd4zs_XKRz_MU4n2ejFfVGLYrQz8y9D45goUFjTDitIrD4ulxZDAppUD6O.S9hmS5TZiTtV1rYJ?startTime=1635498787000) - [45:18](https://hkustconnect-my.sharepoint.com/:i:/g/personal/whpangaa_connect_ust_hk/EQ0h8Q1vOWRHoDV2MrMq7sUBT2Tv6zyM_QLQSeDz3Wis5g?e=nZfxrO)
 
 ### Useful Websites
 
