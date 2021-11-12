@@ -6,7 +6,7 @@
 - Sessions: **T2A** and **T2B**
 - TA: PANG Wai Ho (Jade)
 - Email: whpangaa@connect.ust.hk
-- **Please Fill in the SFQ Survey🙏🙏🙏🏼**
+- **🙏🙏🙏 Please Fill in the SFQ Survey 🙏🙏🙏**
 
 <!-- {height="700px" width="700px"} -->
 ### Tutorial Notes
