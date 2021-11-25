@@ -38,7 +38,7 @@
 - [Exercise 9](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EZUeneTsC91MueeTylzB76cBZjxy_KctvwGcWwkSp6xVGw?e=gpFIur) ([Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EUXGgMg0WC1AlIhaBQLm71UBEF5pgEGM9bmgtJ7dF3HMWQ?e=js3VSq))
 - [Exercise 10](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/Ec2x-NbPjmhCrH2VR_TItAUBJKa4WK_sgx9h7xIoFSl5HQ?e=DBN5Pz) ([Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EaEEvPfKQTNFp1A9lolwOp0BYp3-ueXNWfzUxlIA3FKxMQ?e=6psEFI))
 - [Exercise 11](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ET4Ca8dG-npFgJ5WfrxDSY8B9eq55EnOuFpSwclEY5JTBw?e=Lksj55) ([Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ESV3NBy89rZOs0tpuLvr6F0BuGP5HFlYujrl44_lsFz4eA?e=zNPBfK))
-- [Exercise 12](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ESVDARjc8G5PjwXUdCailnUBvZBxr5fQXzSUpxpc8DFdjw?e=Bput6Q) ([Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ESjxGvXf43xBntiHfQ4GihQBIZ63qxf-BopSnqVPS2mzSg?e=BrDGsZ)
+- [Exercise 12](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ESVDARjc8G5PjwXUdCailnUBvZBxr5fQXzSUpxpc8DFdjw?e=Bput6Q) ([Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ESjxGvXf43xBntiHfQ4GihQBIZ63qxf-BopSnqVPS2mzSg?e=BrDGsZ))
 
 ### Recordings on Monday (For add-drop period only)
 
