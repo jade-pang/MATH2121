@@ -6,7 +6,7 @@
 - Sessions: **T2A** and **T2B**
 - TA: PANG Wai Ho (Jade)
 - Email: whpangaa@connect.ust.hk
-- **🙏🙏🙏 Please Fill in the SFQ Survey on Canvas or https://asset.ust.hk/asset/mobile.do?iLearn=true 🙏🙏🙏**
+<!-- - **🙏🙏🙏 Please Fill in the SFQ Survey on Canvas or https://asset.ust.hk/asset/mobile.do?iLearn=true 🙏🙏🙏** -->
 
 <!-- {height="700px" width="700px"} -->
 ### Tutorial Notes
@@ -24,6 +24,7 @@
 - [Tutorial 10](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EV6Hzc-vEOtMs532lBaaSsABMzomqgKf0HBs_4TtMXNY-Q?e=DslIQi) **(Revised)**
 - [Tutorial 11](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EW5_TSwG2YVHiZbCwXNR1psBhHNLwnMSWZHSpl6U9P708A?e=y1wrN6) **(Updated on Mon 8pm)**
 - [Tutorial 12](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EVwq7LVf6ntDpxU0MLzK-EgBiB4eH5uK_KSSjNXIPPvhag?e=qgZrvF)
+- [Tutorial 13](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EQF5SDKDKSVKunMNGVFzy2QBcAUd09ubvuPlNkDQ75HLmw?e=9cdLWe)
 
 ### Exercises
  _(These are just the exercises from the notes above.)_
@@ -39,6 +40,7 @@
 - [Exercise 10](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/Ec2x-NbPjmhCrH2VR_TItAUBJKa4WK_sgx9h7xIoFSl5HQ?e=DBN5Pz) ([Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EaEEvPfKQTNFp1A9lolwOp0BYp3-ueXNWfzUxlIA3FKxMQ?e=6psEFI))
 - [Exercise 11](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ET4Ca8dG-npFgJ5WfrxDSY8B9eq55EnOuFpSwclEY5JTBw?e=Lksj55) ([Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ESV3NBy89rZOs0tpuLvr6F0BuGP5HFlYujrl44_lsFz4eA?e=zNPBfK))
 - [Exercise 12](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ESVDARjc8G5PjwXUdCailnUBvZBxr5fQXzSUpxpc8DFdjw?e=Bput6Q) ([Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ESjxGvXf43xBntiHfQ4GihQBIZ63qxf-BopSnqVPS2mzSg?e=BrDGsZ))
+- [Exercise 13](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EfMVTqg9a65MgL6htiAwSDEBl6KqOGav9-alBrsS5F3-GQ?e=AVEzxd)
 
 ### Recordings on Monday (For add-drop period only)
 
