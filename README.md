@@ -12,6 +12,7 @@
 - Facility: Library Room IC Learning Space
 - Date: Fri 3 Dec
 - Time: 15:00 - 17:00
+
 Please feel free to join.
 
 <!-- {height="700px" width="700px"} -->
