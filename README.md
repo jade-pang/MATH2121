@@ -8,6 +8,12 @@
 - Email: whpangaa@connect.ust.hk
 <!-- - **🙏🙏🙏 Please Fill in the SFQ Survey on Canvas or https://asset.ust.hk/asset/mobile.do?iLearn=true 🙏🙏🙏** -->
 
+### Q&A session of this course 
+- Facility: Library Room IC Learning Space
+- Date: Fri 3 Dec
+- Time: 15:00 - 17:00
+Please feel free to join.
+
 <!-- {height="700px" width="700px"} -->
 ### Tutorial Notes
 <!-- - <a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EZiM5gyO2oJEs3jrJ7mtvqoBAOMY2Z5pUip7BCXoAqJ2pA?e=LOyZP6" target="_blank">Tutorial 1</a> (<a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/Ebpd_ZeCd_RJuAuC9qhDZzABZ5WsCuVoMGwmN7ZvPSiPDw?e=xtaOfO">Solution</a>) -->
@@ -41,6 +47,7 @@
 - [Exercise 11](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ET4Ca8dG-npFgJ5WfrxDSY8B9eq55EnOuFpSwclEY5JTBw?e=Lksj55) ([Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ESV3NBy89rZOs0tpuLvr6F0BuGP5HFlYujrl44_lsFz4eA?e=zNPBfK))
 - [Exercise 12](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ESVDARjc8G5PjwXUdCailnUBvZBxr5fQXzSUpxpc8DFdjw?e=Bput6Q) ([Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ESjxGvXf43xBntiHfQ4GihQBIZ63qxf-BopSnqVPS2mzSg?e=BrDGsZ))
 - [Exercise 13](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EfMVTqg9a65MgL6htiAwSDEBl6KqOGav9-alBrsS5F3-GQ?e=AVEzxd)
+([Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EfuMXGVyVmhFmpT9Ja2ebZEBDRwTMbc4p5pmCck5--XgpA?e=uqbIJx))
 
 ### Recordings on Monday (For add-drop period only)
 
