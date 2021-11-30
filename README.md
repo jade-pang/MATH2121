@@ -10,7 +10,7 @@
 
 ### Q&A session of this course 
 - Facility: Library Room IC Learning Space
-- Date: Fri 3 Dec
+- \red{Date: Fri 3 Dec}
 - Time: 15:00 - 17:00
 
 Please feel free to join.
