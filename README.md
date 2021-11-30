@@ -10,11 +10,11 @@
 
 ### Q&A session of this course 
 ```diff
-Facility: Library Room IC Learning Space
+- Facility: Library Room IC Learning Space
 
-Date: Fri 3 Dec
+- Date: Fri 3 Dec
 
-Time: 15:00 - 17:00
+- Time: 15:00 - 17:00
 ```
 Please feel free to join.
 
