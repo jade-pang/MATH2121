@@ -58,6 +58,7 @@ Please feel free to join.
 - [Tutorial 8](https://hkust.zoom.us/rec/share/fmYBgznd4zs_XKRz_MU4n2ejFfVGLYrQz8y9D45goUFjTDitIrD4ulxZDAppUD6O.S9hmS5TZiTtV1rYJ?startTime=1635498787000) - [Correction at 45:18](https://hkustconnect-my.sharepoint.com/:i:/g/personal/whpangaa_connect_ust_hk/EQ0h8Q1vOWRHoDV2MrMq7sUBT2Tv6zyM_QLQSeDz3Wis5g?e=nZfxrO)
 - [Tutorial 11](https://hkust.zoom.us/rec/share/ooFGbzDKBKMWG0RZjLjvUxq51uv8VVdG9ZTJX-tjM3ytGqFwTdqNTYdul7IcrH0t.y4VlbU4AXzedMHAE)**(06:26 : A ∈ M_n(C)/ 37:29 : z∈ W perp )**
 - [Tutorial 12](https://hkust.zoom.us/rec/share/Ab2qMs5k11blEnvBjyic3kUTExg2XfUNaQ_drVp6uGF_6dI8hgGSj7sH7DZfPOaE.D5xtcNMo5XDQKOn-)
+- [Tutorial 13](https://hkust.zoom.us/rec/share/Jnvfm_CpFxaJUcTZVNnk_WPtQo_uwvbRgZxTm2dhGCFZ0NidGXroW981JbX-SaKA.Yd5rKrH4mG9GBebJ)
 
 ### Useful Websites
 
