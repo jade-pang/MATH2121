@@ -10,7 +10,7 @@
 
 ### Q&A session of this course 
 - Facility: Library Room IC Learning Space
-- <p style="color:red">Date: Fri 3 Dec<p>
+- <p style="color:red"> Date: Fri 3 Dec<p>
 - Time: 15:00 - 17:00
 
 Please feel free to join.
