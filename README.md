@@ -9,11 +9,10 @@
 <!-- - **🙏🙏🙏 Please Fill in the SFQ Survey on Canvas or https://asset.ust.hk/asset/mobile.do?iLearn=true 🙏🙏🙏** -->
 
 ### Q&A session of this course 
-```diff
-@@ - Facility: Library Room IC Learning Space
-- @@ Date: Fri 3 Dec
-- @@ Time: 15:00 - 17:00
-```
+- <span style="color:orange;">Facility: Library Room IC Learning Space</span>
+- Date: Fri 3 Dec
+- Time: 15:00 - 17:00
+
 Please feel free to join.
 
 <!-- {height="700px" width="700px"} -->
