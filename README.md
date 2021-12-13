@@ -9,10 +9,10 @@
 <!-- - **🙏🙏🙏 Please Fill in the SFQ Survey on Canvas or https://asset.ust.hk/asset/mobile.do?iLearn=true 🙏🙏🙏** -->
 
 ### Q&A session of this course 
-```csharp
-- Facility: Library Room IC Learning Space
-- Date: Fri 17 Dec
-- Time: 14:30 - 16:30
+```diff
++ Facility: Library Room IC Learning Space
++ Date: Fri 17 Dec
++ Time: 14:30 - 16:30
 ```
 Please feel free to join.
 
