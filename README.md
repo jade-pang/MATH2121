@@ -70,7 +70,7 @@ Please feel free to join.
 ### Midterm Review
 - [Revision Exercise](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EduUJ7vTVJBGm2zlzm3kGbkBezmm_eEV30ks807xRE_OZw?e=lLMkyQ) ([Solution](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ESUa-f3QCw9HvubsJ7Pyp2gBXFbIE-WtLWvEJLmALkXiXA?e=dtvGbq)) **(Revised)**
 - [Video](https://youtu.be/Lkls6OY8bVQ)
-- [Supplementary Notes on Abstract Eigenvalues and Eigenvectors](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EdR6pVi_qBVJvl7baYnAo8sBcDK9DHTerW2gYnu-qj5ciA?e=aBQuCi)
+- [Supplementary Notes on Abstract Eigenvectors](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EdR6pVi_qBVJvl7baYnAo8sBcDK9DHTerW2gYnu-qj5ciA?e=aBQuCi)
 - [Chanllenging Exercise](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EVwstmdV9fRGmDqv7WqpOKIBdDMlta-9aGVWgJwcWobdjg?e=Nk7qDa)
 
 <!-- ### Markdown
