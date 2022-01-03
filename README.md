@@ -30,7 +30,7 @@ Please feel free to join.
 - [Tutorial 8](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ET1iCv4oUXpNkpCK4sgNitgBqJtbCdyg556_e74IZL9nJA?e=F4lCTO)
 - [Tutorial 9](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/ESBWMefa_S5GlEgjUHBIaocBCOgWYnRBBiI7FxnnZau61A?e=XujYsc)
 - [Tutorial 10](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EV6Hzc-vEOtMs532lBaaSsABMzomqgKf0HBs_4TtMXNY-Q?e=DslIQi) **(Revised)**
-- [Tutorial 11](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EW5_TSwG2YVHiZbCwXNR1psBhHNLwnMSWZHSpl6U9P708A?e=y1wrN6) **(Updated on Mon 8pm)**
+- [Tutorial 11](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EW5_TSwG2YVHiZbCwXNR1psBhHNLwnMSWZHSpl6U9P708A?e=y1wrN6) **(Revised on Jan 3, 2022)**
 - [Tutorial 12](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EVwq7LVf6ntDpxU0MLzK-EgBiB4eH5uK_KSSjNXIPPvhag?e=qgZrvF)
 - [Tutorial 13](https://hkustconnect-my.sharepoint.com/:b:/g/personal/whpangaa_connect_ust_hk/EQF5SDKDKSVKunMNGVFzy2QBcAUd09ubvuPlNkDQ75HLmw?e=9cdLWe) **(Revised)**
 
