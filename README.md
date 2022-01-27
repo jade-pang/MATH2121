@@ -1,5 +1,7 @@
 ## MATH2121 Tutorial Page
-<img src= "Elmo.png" width="360" height="180">
+
+### This page has been moved to https://jade-pang.github.io/teaching/2121/
+<!-- <img src= "Elmo.png" width="360" height="180">
 <img src= "https://scontent-hkg4-2.xx.fbcdn.net/v/t1.6435-9/247036319_866615780703803_2345663964787519475_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=825194&_nc_ohc=EvGmDGxc3LsAX-tTJF8&_nc_ht=scontent-hkg4-2.xx&oh=e52f1958ad113b4fc3465030eed2bd24&oe=61957BB0" width="300" height="225">
 
 ### Information
@@ -103,4 +105,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ -->
  -->
